@@ -1,2 +1,2 @@
 # SQL_Farmacia
-An SQL script 
+Um script SQL para o controle de uma Farmacia, desde o atendimento até o fornecimento de medicação.
